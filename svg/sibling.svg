@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="97px" height="134px" viewBox="0 0 97 134" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_slibling</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-146.000000, -1358.000000)">
+            <g id="Health-Monitor" transform="translate(0.000000, 1100.000000)">
+                <g id="icon_slibling" transform="translate(187.764481, 319.471701) rotate(-33.000000) translate(-187.764481, -319.471701) translate(169.764481, 245.971701)">
+                    <polygon id="Path-2" stroke="#FFFFFF" stroke-width="4" points="34.9352186 130.859039 1.1842447 130.859039 1.1842447 46.1855432 34.9352186 46.1855432"></polygon>
+                    <polygon id="Path-3" fill="#FFFFFF" points="1.77636705 73.7192324 35.5273409 97.2013448 35.5273409 130.076302 1.77636705 130.859039"></polygon>
+                    <path d="M6.51334584,55.955562 L17.1715481,55.955562" id="Path-4" stroke="#FFFFFF" stroke-width="3"></path>
+                    <path d="M6.51334584,64.2452749 L17.1715481,64.2452749" id="Path-4" stroke="#FFFFFF" stroke-width="3"></path>
+                    <path d="M6.51334584,60.1004184 L22.7967104,60.1004184" id="Path-4" stroke="#FFFFFF" stroke-width="3"></path>
+                    <polygon id="Path-5" stroke="#FFFFFF" stroke-width="3" points="10.6582023 45.5934209 10.6582023 38.4879527 25.461261 38.4879527 25.461261 45.5934209"></polygon>
+                    <polygon id="Path-5" stroke="#FFFFFF" stroke-width="3" points="17.7636705 143.885731 17.7636705 130.859039 18.0597316 130.859039 18.0597316 143.885731"></polygon>
+                    <polygon id="Path-5" stroke="#FFFFFF" stroke-width="3" fill="#FFFFFF" transform="translate(17.337609, 145.555099) rotate(90.000000) translate(-17.337609, -145.555099) " points="16.8376087 162.726647 16.8376087 128.383551 17.4297311 128.383551 17.4297311 162.726647"></polygon>
+                    <polygon id="Path-6" stroke="#FFFFFF" stroke-width="2" fill="#FFFFFF" points="15.5749005 37.2712317 17.3626016 0.539258808 19.731091 37.2508444"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
